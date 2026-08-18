@@ -630,13 +630,6 @@ Python
 
 通过一个自己设计的具体问题，探索不同决策策略在不确定环境中的表现。
 
----
-
-# License
-
-本项目采用 MIT License。
-
-详见：
 
 ```text
 LICENSE
